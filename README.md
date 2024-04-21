@@ -1,6 +1,6 @@
 # Visual Studio IDE Logo in VTuber Logos Style
 
-Everything here shares the same principle as the main repo by [Aikoyori](https://github.com/Aikoyori), so don't use anything here comercially.
+Everything here shares the same principle as the [main repo](https://github.com/Aikoyori/ProgrammingVTuberLogos) by [Aikoyori](https://github.com/Aikoyori), so don't use anything here comercially.
 
 > [!NOTE]
 > I am not the creator of this logo. The designer is **Manhkbrady**. I posted it on his behalf because he is not familiar with GitHub. You can view his artworks at:
