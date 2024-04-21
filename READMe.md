@@ -6,7 +6,6 @@ Everything here shares the same principle as the main repo by [Aikoyori](https:/
 > I am not the creator of this logo. The designer is **Manhkbrady**. I posted it on his behalf because he is not familiar with GitHub. You can view his artwork at:
 > ## [Manhkbrady's Behance](https://www.behance.net/Manhkbrady)
 
-
 ## License
 
 Licensed under [CC-BY-NC-SA-4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)
