@@ -3,8 +3,8 @@
 Everything here shares the same principle as the [main repo](https://github.com/Aikoyori/ProgrammingVTuberLogos) by [Aikoyori](https://github.com/Aikoyori), so don't use anything here comercially.
 
 > [!NOTE]
-> I am not the creator of this logo. The designer is **Manhkbrady**. I posted it on his behalf because he is not familiar with GitHub. You can view his artworks at:
-> ## [Manhkbrady's Behance](https://www.behance.net/Manhkbrady)
+> I am not the creator of this logo. The designer is [**Manhkbrady**](https://www.behance.net/Manhkbrady). I posted it on his behalf because he is not familiar with GitHub
+> ## [Original work](https://www.behance.net/gallery/196715739/Logofolio)
 
 ## Visual Studio IDE Logo
 Origin: https://visualstudio.microsoft.com/vs/
